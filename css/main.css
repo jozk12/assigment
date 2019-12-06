@@ -519,7 +519,7 @@ a:hover .social-item{
     padding: 16px 74px;
     margin-left: 41px;
 }
-@media(min-width: 357px){
+@media(min-width: 320px){
     .container{
         padding-right: 17px;
         padding-left: 17px;
